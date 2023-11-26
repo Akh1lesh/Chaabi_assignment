@@ -1,5 +1,5 @@
 # Chaabi_assignment
-Open the chaabi_assignment.ipynb file in google colab and load the dataset in colab.
+Open the chaabi_assignment.ipynb file in google colab and load the dataset bigBasketProducts.csv in colab.
 1. query = model.encode(['Garlic oil'])
    [ScoredPoint(id=5, version=0, score=0.49646023, payload={'category': 'description'}, vector=None),
  ScoredPoint(id=4, version=0, score=0.40826905, payload={'category': 'type'}, vector=None),
